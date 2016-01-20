@@ -1,0 +1,9 @@
+config:
+  port: 6128
+  srcPath : "./app"
+  buildPath : "./dist"
+  isConCat : true
+  staticPrefix : "http://res.tongbanjie.com/wap/invite/"
+  domainPath : "http://m.tongbanjie.com/invite/"
+  iconFontPath : "http://res.tongbanjie.com/common/iconfont/"
+  host : "m.tongbanjie.com"

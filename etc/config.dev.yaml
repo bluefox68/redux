@@ -1,0 +1,9 @@
+config:
+  port : 8080
+  srcPath : "./src"
+  buildPath : "./"
+  isConCat : false
+  staticPrefix : "./"
+  domainPath : "./"
+  iconFontPath : "./imgs/iconfont/"
+  host : "localhost"
